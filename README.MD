@@ -31,7 +31,7 @@ This is a collection of CodePen Meetup info. If you have feedback or want to con
 * Promoting: CodePen, Twitter, email, LinkedIn, etc
 
 <a href="https://codepen.io/brianmontanaweb/post/organizing-a-codepen-event" target="_blank">Organizing a CodePen Meetup</a><br>
-<a href="https://trello.com/b/liiotmfp/codepen-event" target="_blank">Trello CodePen Checklist</a>
+<a href="https://trello.com/b/liiotmfp" target="_blank">Trello CodePen Checklist</a>
 
 ## Organizers
 #### Brian Montana
