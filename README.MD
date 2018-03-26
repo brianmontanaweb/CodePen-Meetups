@@ -15,7 +15,7 @@ This is a collection of CodePen Meetup info. If you have feedback or want to con
 * Review content
 * Give credit
 
-#### Event
+#### Event Day
 * Food restrictions
 * Accessible space
 * Email reminder
@@ -30,11 +30,11 @@ This is a collection of CodePen Meetup info. If you have feedback or want to con
 * Blog post of event
 * Promoting: CodePen, Twitter, email, LinkedIn, etc
 
-[Organizing a CodePen Meetup](https://codepen.io/brianmontanaweb/post/organizing-a-codepen-event)<br/>
-[Trello CodePen Checklist](https://trello.com/b/liiotmfp/codepen-event)
+<a href="https://codepen.io/brianmontanaweb/post/organizing-a-codepen-event" target="_blank">Organizing a CodePen Meetup</a><br>
+<a href="https://trello.com/b/liiotmfp/codepen-event" target="_blank">Trello CodePen Checklist</a>
 
 ## Organizers
 #### Brian Montana
-CodePen: [@brianmontanaweb](https://codepen.io/brianmontanaweb)<br/>
-Twitter: [@brianmontanaweb](https://twitter.com/brianmontanaweb)<br/>
+CodePen: <a href="https://codepen.io/brianmontanaweb" target="_blank">@brianmontanaweb</a><br/>
+Twitter: <a href="https://twitter.com/brianmontanaweb" target="_blank">@brianmontanaweb</a><br/>
 Location: Chicago, IL, USA
