@@ -1,6 +1,6 @@
 # CodePen Meetups
 
-This is a collection of CodePen Meetup info. If you have feedback or want to contribute feel free, looking for helpful advice from others.
+This is a collection of CodePen Meetup info. If you have feedback or want to contribute feel free, looking for input from others and help with updating our organizer list.
 
 ## Meetup Checklist
 
@@ -30,10 +30,11 @@ This is a collection of CodePen Meetup info. If you have feedback or want to con
 * Blog post of event
 * Promoting: CodePen, Twitter, email, LinkedIn, etc
 
-[Organizing a CodePen Meetup](https://codepen.io/brianmontanaweb/post/organizing-a-codepen-event)
+[Organizing a CodePen Meetup](https://codepen.io/brianmontanaweb/post/organizing-a-codepen-event)<br/>
+[Trello CodePen Checklist](https://trello.com/b/liiotmfp/codepen-event)
 
 ## Organizers
-###### Brian Montana
-CodePen: [@brianmontanaweb](https://codepen.io/brianmontanaweb)
-Twitter: [@brianmontanaweb](https://twitter.com/brianmontanaweb)
-Chicago, IL, USA
+#### Brian Montana
+CodePen: [@brianmontanaweb](https://codepen.io/brianmontanaweb)<br/>
+Twitter: [@brianmontanaweb](https://twitter.com/brianmontanaweb)<br/>
+Location: Chicago, IL, USA
